@@ -1,1 +1,2 @@
 "git@github.com:saltatory/git_slave_child1.git" "lib/git_slave_child1"
+"git@github.com:saltatory/git_slave_child2.git" "lib/git_slave_child2"
